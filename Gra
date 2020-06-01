@@ -1,0 +1,8 @@
+#ifndef GRA_HH
+#define GRA_HH
+
+#include "MinMax.hh"
+
+void Gra();
+
+#endif
